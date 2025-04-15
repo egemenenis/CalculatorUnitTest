@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4D8091-1355-4F4F-8FB7-5EA67B8F567A}|TestCalculator\\TestCalculator.csproj|c:\\users\\egemen.ertas\\desktop\\calculatorunittest\\testcalculator\\calculatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4D8091-1355-4F4F-8FB7-5EA67B8F567A}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\calculatetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC307BDC-1418-4AC2-BBD5-642D9EE89475}|CalculatorUnitTest\\CalculatorUnitTest.csproj|c:\\users\\egemen.ertas\\desktop\\calculatorunittest\\calculatorunittest\\clscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC307BDC-1418-4AC2-BBD5-642D9EE89475}|CalculatorUnitTest\\CalculatorUnitTest.csproj|solutionrelative:calculatorunittest\\clscalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4D8091-1355-4F4F-8FB7-5EA67B8F567A}|TestCalculator\\TestCalculator.csproj|c:\\users\\egemen.ertas\\desktop\\calculatorunittest\\testcalculator\\testcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7A4D8091-1355-4F4F-8FB7-5EA67B8F567A}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\testcalculator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BC307BDC-1418-4AC2-BBD5-642D9EE89475}|CalculatorUnitTest\\CalculatorUnitTest.csproj|c:\\users\\egemen.ertas\\desktop\\calculatorunittest\\calculatorunittest\\calculatorunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BC307BDC-1418-4AC2-BBD5-642D9EE89475}|CalculatorUnitTest\\CalculatorUnitTest.csproj|solutionrelative:calculatorunittest\\calculatorunittest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A4D8091-1355-4F4F-8FB7-5EA67B8F567A}|TestCalculator\\TestCalculator.csproj|c:\\users\\egemen.ertas\\desktop\\calculatorunittest\\testcalculator\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A4D8091-1355-4F4F-8FB7-5EA67B8F567A}|TestCalculator\\TestCalculator.csproj|solutionrelative:testcalculator\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestCalculator",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\TestCalculator\\TestCalculator.csproj",
+              "RelativeDocumentMoniker": "TestCalculator\\TestCalculator.csproj",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\TestCalculator\\TestCalculator.csproj",
+              "RelativeToolTip": "TestCalculator\\TestCalculator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T07:32:31.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculatorUnitTest",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
+              "RelativeDocumentMoniker": "CalculatorUnitTest\\CalculatorUnitTest.csproj",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\CalculatorUnitTest\\CalculatorUnitTest.csproj",
+              "RelativeToolTip": "CalculatorUnitTest\\CalculatorUnitTest.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T07:32:27.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculateTest.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\TestCalculator\\CalculateTest.cs",
+              "RelativeDocumentMoniker": "TestCalculator\\CalculateTest.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\TestCalculator\\CalculateTest.cs",
+              "RelativeToolTip": "TestCalculator\\CalculateTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:22.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\TestCalculator\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "TestCalculator\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\TestCalculator\\MSTestSettings.cs",
+              "RelativeToolTip": "TestCalculator\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:32:16.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClsCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\CalculatorUnitTest\\ClsCalculator.cs",
+              "RelativeDocumentMoniker": "CalculatorUnitTest\\ClsCalculator.cs",
+              "ToolTip": "C:\\Users\\egemen.ertas\\Desktop\\CalculatorUnitTest\\CalculatorUnitTest\\ClsCalculator.cs",
+              "RelativeToolTip": "CalculatorUnitTest\\ClsCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:26:52.707Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

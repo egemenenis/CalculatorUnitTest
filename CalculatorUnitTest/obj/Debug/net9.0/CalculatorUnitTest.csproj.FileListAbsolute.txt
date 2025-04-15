@@ -1,0 +1,11 @@
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\net9.0\CalculatorUnitTest.deps.json
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\net9.0\CalculatorUnitTest.dll
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\bin\Debug\net9.0\CalculatorUnitTest.pdb
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\CalculatorUnitTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\CalculatorUnitTest.AssemblyInfoInputs.cache
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\CalculatorUnitTest.AssemblyInfo.cs
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\CalculatorUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\CalculatorUnitTest.dll
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\refint\CalculatorUnitTest.dll
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\CalculatorUnitTest.pdb
+C:\Users\egemen.ertas\Desktop\CalculatorUnitTest\CalculatorUnitTest\obj\Debug\net9.0\ref\CalculatorUnitTest.dll
